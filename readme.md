@@ -1,4 +1,4 @@
-# Video Compression Project in Laravel
+# Bet Project in Laravel
 
 Welcome to the Bet Project in Laravel! This project aims to create a betting platform similar to Bet365, providing users with the ability to place bets on various sports events and games. It's built using the Laravel framework.
 
