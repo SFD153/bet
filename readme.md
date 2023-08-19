@@ -37,7 +37,7 @@ To run this project, you'll need the following:
 
    ```sh
    git clone https://github.com/SFD153/bet.git
-   cd bet-project-laravel
+   cd bet
 
 2. Install dependencies:
 
